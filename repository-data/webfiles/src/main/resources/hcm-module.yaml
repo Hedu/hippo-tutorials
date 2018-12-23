@@ -1,0 +1,5 @@
+group: 
+  name: tutorials
+  after: hippo-cms
+project: tutorials
+module: tutorials-repository-data-webfiles

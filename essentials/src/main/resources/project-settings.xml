@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+  <projectNamespace>tutorials</projectNamespace>
+  <confirmParams>false</confirmParams>
+  <selectedProjectPackage>com.hedu</selectedProjectPackage>
+  <selectedBeansPackage>com.hedu.beans</selectedBeansPackage>
+  <selectedComponentsPackage>com.hedu.components</selectedComponentsPackage>
+  <selectedRestPackage>com.hedu.rest</selectedRestPackage>
+  <setupDone>false</setupDone>
+  <templateLanguage>freemarker</templateLanguage>
+  <useSamples>true</useSamples>
+  <extraTemplates>true</extraTemplates>
+</project>

@@ -1,0 +1,6 @@
+group: 
+  name: tutorials
+  after: hippo-cms
+project: tutorials
+module:
+  name: tutorials-repository-data-application
